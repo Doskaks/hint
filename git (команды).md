@@ -1,6 +1,10 @@
-*Git команды*:
-git pull origin main #для работы из разных мест, перед началом работы
+**Git команды**:
+
+```bash
+git pull origin main''' #для работы из разных мест, перед началом работы
+
 git clone https://github.com/Doskaks/sdb-homeworks.git #клонирование форка в папку проекта
+
 git remote –v #проверка оригинала форка (origin)
 git status #просмотр изменений, готовые к коммиту
 git add 11-01.md  или git add . #для конкретного или всех файлов
@@ -21,6 +25,8 @@ git checkout -b новая-ветка origin/новая-ветка #перекл
 git log origin/main #просмотр логов изменений
 git remote show origin #убедиться, что подключение с GitHub работает
 git ls-remote origin #проверить доступность репозитория
+
+```
 
 
 Работы с forkom:
