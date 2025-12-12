@@ -1,10 +1,8 @@
 **Git команды**:
 
 ```git
-git pull origin main - для работы из разных мест, перед началом работы
-
+git pull origin main #для работы из разных мест, перед началом работы
 git clone https://github.com/Doskaks/sdb-homeworks.git #клонирование форка в папку проекта
-
 git remote –v #проверка оригинала форка (origin)
 git status #просмотр изменений, готовые к коммиту
 git add 11-01.md  или git add . #для конкретного или всех файлов
