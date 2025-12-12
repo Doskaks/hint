@@ -1,7 +1,7 @@
 **Git команды**:
 
 ```git
-git pull origin main ###для работы из разных мест, перед началом работы
+git pull origin main - для работы из разных мест, перед началом работы
 
 git clone https://github.com/Doskaks/sdb-homeworks.git #клонирование форка в папку проекта
 
